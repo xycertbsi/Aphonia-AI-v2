@@ -1,4 +1,4 @@
-
+# **`ÉRKEZIK`**
 # Aphonia-AI v2
 Egy moduláris AI ami az OpenAI-al müködik! 
 Támogatja a hang fel olvasást, szöveg generálást, kép generálást is!
